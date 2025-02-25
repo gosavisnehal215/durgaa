@@ -11,7 +11,7 @@ package Abstarct_class;
     abstract void start(); //abstarct method
 
     void stop(){ // normal method
-        System.out.println(brand +"is stopping.");
+        System.out.println(brand +"is sssstopping.");
     }
 }
 //first child class
