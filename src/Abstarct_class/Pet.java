@@ -6,7 +6,7 @@ abstract class Animal {
 
 
     public void sleep() { // Regular method
-        System.out.println("This animal sss is sleeping");
+        System.out.println("This animalll sss is sleeping");
     } //normal method
 }
 
