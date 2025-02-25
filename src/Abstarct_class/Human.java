@@ -26,7 +26,7 @@ abstract class Human {
             System.out.println("Name: " + name);
             System.out.println("Age: " + age);
             System.out.println("Roll: " + roll);
-            System.out.println("Salary: " + salary);
+            System.out.println("Salaryyy: " + salary);
 
 
 
@@ -38,7 +38,7 @@ abstract class Human {
 
 public class Person{
     public static void main(String[] args) {
-        student S = new student("krushna",34 ,43 ,4444);
+      //  student S = new student("krushna",34 ,43 ,4444);
 
     }
 }
