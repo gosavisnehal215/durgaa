@@ -2,10 +2,10 @@ package Abstarct_class;
 
 //by using constructor in parent class
 abstract class Person {
-    String name;
+    String name; // instance variable
     int age;
 
-    Person(String name, int age) {
+    Person(String name, int age) { // constructor
         this.name = name;
         this.age = age;
 
@@ -22,15 +22,15 @@ abstract class Person {
         }
 
         // To display the details of the student
-        void display() {
+        void display() { // normal method
             System.out.println("Name: " + name);
             System.out.println("Age: " + age);
             System.out.println("Roll: " + roll);
             System.out.println("Salary: " + salary);
 
 
-            student S = new student("krushna", 25, 11, 4500);
 
+            student S = new student("krushna", 25, 11, 4500);
         }
 
 

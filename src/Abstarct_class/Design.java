@@ -1,11 +1,11 @@
 package Abstarct_class;
 
+// can an abstarct class have construcotr ?
+
 // Abstract class
 abstract class Shape {
     String name;
 
-
-    // Constructor
     Shape(String name) { // Constructor
         this.name = name;
         System.out.println("Shape constructor called for: " + name);

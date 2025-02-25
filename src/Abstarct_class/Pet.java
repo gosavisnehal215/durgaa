@@ -7,7 +7,7 @@ abstract class Animal {
 
     public void sleep() { // Regular method
         System.out.println("This animal is sleeping");
-    }
+    } //normal method
 }
 
 
@@ -15,11 +15,11 @@ class Dog extends Animal {// Subclass (inherited from Animal)
 
     public void sound() {
         System.out.println("The dog barks");
-    }
+    }  // impementing abstarct method
 }
 
 class Cat extends Animal {
-    // Providing implementation for abstract method
+    // implementing  abstract method
     public void sound() {
         System.out.println("The cat meows");
     }
