@@ -3,6 +3,7 @@ package Abstarct_class;
 
   abstract class Vehichals{
     String brand;
+    int roll;
     Vehichals(String brand ){ //construtor
         this.brand=brand;
     }
