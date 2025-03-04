@@ -1,4 +1,4 @@
-package Abstarct_class;
+package Abtrsction;
 
 abstract class Vehicle {
 

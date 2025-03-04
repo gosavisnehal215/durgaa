@@ -10,7 +10,8 @@ class SuperParent {
 class SuperChild extends SuperParent {
     int num = 200;
     void display() {
-        System.out.println(super.num);  // Access parent variable
+        System.out.println(super.num);// Access parent variable
+        System.out.println(this.num);
         super.show();  // Call parent method
     }
 }

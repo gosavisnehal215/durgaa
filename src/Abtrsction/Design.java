@@ -1,4 +1,4 @@
-package Abstarct_class;
+package Abtrsction;
 
 // can an abstarct class have construcotr ?
 

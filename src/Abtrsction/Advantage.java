@@ -1,4 +1,4 @@
-package Abstarct_class;
+package Abtrsction;
 //advantage of abstarct class
 
   abstract class Vehichals{

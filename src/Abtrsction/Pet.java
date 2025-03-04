@@ -1,4 +1,5 @@
-package Abstarct_class;
+/*
+package Abtrsction;
 
 abstract class Animal {
 
@@ -30,7 +31,7 @@ class Cat extends Animal {
 public class Pet {
     public static void main(String[] args) {
         // Create objects of the subclasses
-        Dog dog = new Dog();
+        Dog1 dog = new Dog1();
         Cat cat = new Cat();
 
         // Call the by abstact method
@@ -42,3 +43,4 @@ public class Pet {
         cat.sleep();
     }
 }
+*/
