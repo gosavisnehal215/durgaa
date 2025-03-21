@@ -1,17 +1,17 @@
-package Abstarct_class;
+package Abtrsction;
 
 //by using constructor in parent class
-abstract class Person {
+abstract class Human {
     String name; // instance variable
     int age;
 
-    Person(String name, int age) { // constructor
+    Human(String name, int age) { // constructor
         this.name = name;
         this.age = age;
 
     }
 
-    class student extends Person {
+    class student extends Human {
         int roll;
         double salary;
 
@@ -26,15 +26,20 @@ abstract class Person {
             System.out.println("Name: " + name);
             System.out.println("Age: " + age);
             System.out.println("Roll: " + roll);
-            System.out.println("Salary: " + salary);
+            System.out.println("Salaryyy: " + salary);
 
 
 
-            student S = new student("krushna", 25, 11, 4500);
+
         }
 
 
     }
 
+public class Person{
+    public static void main(String[] args) {
+      //  student S = new student("krushna",34 ,43 ,4444);
 
+    }
+}
 }

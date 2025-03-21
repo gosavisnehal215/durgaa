@@ -1,4 +1,4 @@
-package Abstarct_class;
+package Abtrsction;
 
 //Can an abstract class have concrete methods (i.e., methods with a body)?
 
