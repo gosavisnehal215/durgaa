@@ -7,7 +7,7 @@ public class Basic {
         marks[1]=45;
         marks[2]=35;
       System.out.println(marks);
-     // System.out.println(marks[2]);
+      System.out.println(marks[2]);
 
         //another way show output
         for (int i=0; i<3;i++){
