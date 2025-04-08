@@ -1,4 +1,4 @@
-package Arrays;
+package ArrayList;
 // takean array as input from the user. search for a given number x and print the index at which  it occurs.
 
 import java.util.Scanner;
