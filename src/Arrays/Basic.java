@@ -11,5 +11,5 @@ public class Basic {
 
         //another way show output
         for (int i=0; i<3;i++){
-       System.out.println(marks[i]);
+     //  System.out.println(marks[i]);
 }}}
