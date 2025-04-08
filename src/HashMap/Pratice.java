@@ -8,7 +8,7 @@ public class Pratice {
             HashMap<String, String> studentGrades = new HashMap<>();
 
             // Adding elements
-            studentGrades.put("Krisfsdfsdh", "A");
+            studentGrades.put("Krisdsdffsdfsdh", "A");
             studentGrades.put("Joy", "B");
             studentGrades.put("Ram", "A");
             studentGrades.put("Vishal", "C");
