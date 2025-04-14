@@ -19,6 +19,8 @@ public class Pratice {
                 System.out.println(student + ": " + studentGrades.get(student));
             }
 
+
+
             // Getting value for a key
             System.out.println("Grade of John: " + studentGrades.get("John"));
 

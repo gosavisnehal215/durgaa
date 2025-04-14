@@ -21,10 +21,10 @@ public class B {
         A a = new A();
         a.start();
 
-        for ( int i=1; i<=5; i++){
+       /* for ( int i=1; i<=5; i++){
             System.out.println( "Rahul");
              Thread.sleep(1000);
-        }
+        }*/
     }
     }
 
