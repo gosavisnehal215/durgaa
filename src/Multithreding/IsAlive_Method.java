@@ -15,5 +15,4 @@ public class IsAlive_Method {
         System.out.println(a2.isAlive());
         a2.start();
     }
-
 }

@@ -13,7 +13,7 @@ class F extends Thread {
 
         }
     }
-
+}
     public class Join {
         public static void main(String[] args) {
             H f1 = new H();
@@ -27,16 +27,16 @@ class F extends Thread {
 
 
             f2.start();
-            try{
+
+           try{
                 f2.join();
             }
             catch(InterruptedException i)
             {
 
             }
-
             f1.start();
+
             f3.start();
         }
     }
-}

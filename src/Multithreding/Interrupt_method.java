@@ -18,6 +18,6 @@ public class Interrupt_method {
         J t1 = new J();
         t1.start();
 
-        t1.interrupt(); //this method only work when thread is waiting or sleep mode
+        //t1.interrupt(); //this method only work when thread is waiting or sleep mode
     }
 }
